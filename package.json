@@ -1,0 +1,17 @@
+{
+  "name": "ambientededesarrollo",
+  "version": "1.0.0",
+  "description": "Primera tarea sin clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "correr": "node AmbienteDeDesarrollo.js"
+  },
+  "author": "NandoBOOM",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dayjs": "^1.11.23",
+    "prompt-sync": "^4.2.0"
+  }
+}
